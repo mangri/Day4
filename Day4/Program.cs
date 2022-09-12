@@ -338,7 +338,7 @@ namespace Day4
             */
 
             /*
-              //Second highest and secong lowest values in an array
+              //Second highest and second lowest values in an array
               //Initiating an array with random elements
               int[] arr4 = new int[20];
               Random rnd = new Random();
